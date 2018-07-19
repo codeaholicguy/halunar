@@ -24,3 +24,7 @@ calculateDateFromLunarDate (lunarDay, lunarMonth, lunarYear, timeZone) = (day, m
 ### Reference
 
 [Computing the Vietnamese lunar calendar](https://www.informatik.uni-leipzig.de/~duc/amlich/calrules_en.html)
+
+### Special thanks
+
+- The logo is designed by @reallinfo
