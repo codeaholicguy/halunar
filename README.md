@@ -27,4 +27,4 @@ calculateDateFromLunarDate (lunarDay, lunarMonth, lunarYear, timeZone) = (day, m
 
 ### Special thanks
 
-- The logo is designed by @reallinfo
+- The logo is designed by [@reallinfo](https://github.com/reallinfo)
